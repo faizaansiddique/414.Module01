@@ -1,0 +1,501 @@
+Country,Cost_of_Living,Year,Region
+Australia,1106.07,2013,Oceania
+India,5422.78,2019,Asia
+Russia,3972.36,2004,Europe
+South Africa,6755.75,2011,Africa
+Brazil,2656.36,2015,South America
+Australia,4575.3,2015,Oceania
+China,6551.39,2020,Asia
+Japan,1076.56,2006,Asia
+Australia,6585.71,2003,Oceania
+Russia,4940.05,2000,Europe
+Russia,847.72,2004,Europe
+South Africa,2386.36,2022,Africa
+Brazil,5073.94,2009,South America
+India,844.51,2021,Asia
+South Africa,4242.33,2004,Africa
+South Africa,2682.83,2003,Africa
+Japan,4498.04,2001,Asia
+Canada,701.9,2019,North America
+Brazil,6152.14,2009,South America
+Germany,6825.03,2018,Europe
+South Africa,6794.59,2000,Africa
+Mexico,5347.7,2023,North America
+Canada,1258.57,2004,North America
+Germany,5404.54,2012,Europe
+Mexico,562.27,2003,North America
+Brazil,546.02,2015,South America
+United States,2535.83,2023,North America
+Mexico,3625.05,2015,North America
+China,5484.69,2022,Asia
+Canada,4909.75,2001,North America
+Mexico,3342.96,2016,North America
+France,2205.94,2019,Europe
+United States,6981.02,2023,North America
+Russia,3212.8,2011,Europe
+Russia,3379.15,2017,Europe
+China,1479.92,2002,Asia
+Mexico,5645.74,2000,North America
+Mexico,4978.3,2000,North America
+Japan,1857.08,2018,Asia
+Mexico,943.71,2010,North America
+Australia,4891.3,2004,Oceania
+India,4719.77,2011,Asia
+France,2203.51,2002,Europe
+Japan,6675.7,2000,Asia
+Brazil,1396.98,2000,South America
+Japan,3253.41,2007,Asia
+Australia,6627.87,2009,Oceania
+Brazil,3170.2,2010,South America
+France,4614.27,2011,Europe
+Australia,3024.12,2012,Oceania
+Germany,2209.82,2011,Europe
+India,6894.25,2013,Asia
+France,3101.6,2001,Europe
+Mexico,6301.05,2018,North America
+Germany,1917.7,2017,Europe
+China,1806.49,2002,Asia
+France,605.48,2022,Europe
+China,4701.0,2016,Asia
+Brazil,2832.27,2007,South America
+Germany,6104.76,2009,Europe
+India,3523.19,2001,Asia
+Mexico,6790.08,2018,North America
+Mexico,1624.47,2008,North America
+Australia,6132.91,2006,Oceania
+Mexico,5525.54,2003,North America
+South Africa,5488.08,2020,Africa
+Japan,5975.57,2017,Asia
+United States,5422.76,2012,North America
+India,4533.05,2010,Asia
+Germany,1266.22,2023,Europe
+South Africa,614.67,2003,Africa
+India,6477.6,2020,Asia
+Germany,4469.89,2003,Europe
+Canada,5657.15,2009,North America
+Canada,3578.05,2004,North America
+China,1174.23,2008,Asia
+India,1226.23,2023,Asia
+Canada,4924.73,2002,North America
+Germany,3240.02,2016,Europe
+China,1723.46,2002,Asia
+Mexico,3644.52,2015,North America
+Germany,823.78,2003,Europe
+China,4241.01,2017,Asia
+India,2175.36,2016,Asia
+South Africa,5663.89,2006,Africa
+Australia,2448.39,2023,Oceania
+Mexico,3404.45,2022,North America
+France,476.7,2004,Europe
+South Africa,878.15,2011,Africa
+Brazil,2990.46,2016,South America
+Germany,3567.6,2022,Europe
+Brazil,4360.14,2012,South America
+South Africa,2324.97,2022,Africa
+China,4986.88,2002,Asia
+France,6076.81,2008,Europe
+Mexico,5547.02,2016,North America
+Mexico,661.48,2016,North America
+Mexico,3571.35,2019,North America
+France,1092.54,2015,Europe
+United States,1997.5,2021,North America
+France,6911.97,2012,Europe
+Australia,1340.47,2018,Oceania
+France,3692.66,2016,Europe
+South Africa,4479.83,2003,Africa
+United States,5036.27,2011,North America
+Mexico,4093.68,2008,North America
+South Africa,464.49,2018,Africa
+South Africa,2554.64,2011,Africa
+Russia,3816.9,2008,Europe
+Japan,979.92,2006,Asia
+United States,2714.14,2013,North America
+South Africa,619.14,2019,Africa
+Japan,918.62,2018,Asia
+Japan,3019.69,2014,Asia
+United States,1275.92,2015,North America
+Russia,4145.77,2020,Europe
+Brazil,4950.47,2004,South America
+China,5683.87,2002,Asia
+Australia,1720.99,2011,Oceania
+China,1505.39,2019,Asia
+France,1090.15,2020,Europe
+Mexico,4600.44,2003,North America
+Australia,5062.74,2020,Oceania
+France,608.47,2022,Europe
+South Africa,6579.0,2015,Africa
+Mexico,743.01,2006,North America
+Germany,3972.56,2012,Europe
+United States,5079.8,2020,North America
+Australia,6148.4,2009,Oceania
+Australia,5112.97,2006,Oceania
+South Africa,5691.41,2013,Africa
+Brazil,2640.37,2004,South America
+Japan,5777.85,2002,Asia
+Mexico,928.76,2022,North America
+South Africa,6305.79,2010,Africa
+Canada,4014.11,2010,North America
+Russia,5794.17,2017,Europe
+Japan,3385.3,2014,Asia
+United States,4647.61,2011,North America
+Japan,3874.26,2008,Asia
+Brazil,5228.49,2009,South America
+Japan,938.76,2011,Asia
+United States,798.32,2016,North America
+Brazil,2030.88,2005,South America
+China,1452.99,2006,Asia
+Australia,6153.77,2013,Oceania
+Australia,1846.81,2012,Oceania
+Russia,6840.71,2007,Europe
+France,2623.51,2009,Europe
+China,1601.98,2008,Asia
+China,5612.01,2017,Asia
+Mexico,4747.47,2001,North America
+Japan,3688.09,2004,Asia
+Australia,4065.4,2004,Oceania
+United States,5146.73,2005,North America
+India,1907.8,2018,Asia
+India,6975.8,2007,Asia
+Brazil,6833.63,2015,South America
+Australia,4692.15,2012,Oceania
+Australia,1716.98,2000,Oceania
+Russia,4889.51,2021,Europe
+India,876.51,2019,Asia
+Australia,602.31,2016,Oceania
+Russia,2100.71,2006,Europe
+Japan,3453.31,2012,Asia
+Canada,6130.6,2003,North America
+Mexico,5199.32,2003,North America
+Germany,5301.86,2005,Europe
+China,3208.26,2018,Asia
+France,2683.17,2011,Europe
+Brazil,2848.86,2021,South America
+Canada,6918.49,2006,North America
+Mexico,664.72,2009,North America
+Mexico,6122.41,2018,North America
+Mexico,4219.26,2006,North America
+Mexico,3294.86,2002,North America
+India,5186.7,2012,Asia
+Russia,3612.02,2012,Europe
+China,6164.59,2017,Asia
+Australia,6344.63,2019,Oceania
+Mexico,3183.36,2007,North America
+France,2227.06,2008,Europe
+Australia,4309.51,2006,Oceania
+United States,6421.6,2000,North America
+United States,1790.37,2002,North America
+France,4511.58,2012,Europe
+Russia,4568.3,2016,Europe
+France,5238.55,2023,Europe
+India,1268.35,2000,Asia
+France,5124.44,2005,Europe
+Japan,6399.61,2020,Asia
+Australia,1585.91,2005,Oceania
+Canada,1967.79,2011,North America
+South Africa,6811.21,2012,Africa
+Russia,1594.45,2012,Europe
+France,6038.94,2014,Europe
+Brazil,3649.03,2020,South America
+United States,2031.73,2015,North America
+Japan,6146.95,2021,Asia
+China,3339.01,2020,Asia
+Mexico,3797.79,2010,North America
+South Africa,2770.94,2004,Africa
+Russia,4313.48,2003,Europe
+Canada,1479.26,2002,North America
+South Africa,2981.14,2018,Africa
+France,6798.12,2019,Europe
+India,2103.68,2017,Asia
+United States,4734.46,2014,North America
+United States,2546.25,2008,North America
+China,5504.92,2016,Asia
+India,1263.77,2013,Asia
+Mexico,6800.82,2014,North America
+Australia,3395.01,2000,Oceania
+Germany,1957.93,2020,Europe
+Japan,885.08,2021,Asia
+United States,1520.4,2021,North America
+Brazil,3830.51,2002,South America
+United States,2624.22,2015,North America
+South Africa,5870.63,2022,Africa
+United States,3243.86,2010,North America
+Russia,2041.51,2011,Europe
+United States,4473.16,2009,North America
+Germany,5064.73,2015,Europe
+Germany,1502.48,2007,Europe
+Mexico,1506.29,2005,North America
+Canada,642.03,2011,North America
+Australia,5260.25,2023,Oceania
+Brazil,4781.11,2020,South America
+United States,3532.56,2007,North America
+United States,5971.52,2003,North America
+Japan,5717.42,2007,Asia
+Germany,4263.34,2017,Europe
+Brazil,6130.59,2004,South America
+Mexico,1758.55,2008,North America
+China,1138.67,2003,Asia
+Canada,2180.35,2021,North America
+Australia,776.77,2016,Oceania
+India,3905.72,2008,Asia
+Australia,6581.6,2000,Oceania
+Russia,659.67,2020,Europe
+South Africa,1205.93,2019,Africa
+Russia,3384.51,2012,Europe
+United States,6563.58,2015,North America
+Canada,2486.63,2012,North America
+South Africa,3747.75,2013,Africa
+Brazil,674.38,2002,South America
+India,1379.07,2005,Asia
+Germany,6911.76,2017,Europe
+Canada,6769.78,2018,North America
+Canada,432.6,2004,North America
+Russia,6681.96,2014,Europe
+United States,4618.19,2001,North America
+France,6128.26,2009,Europe
+Mexico,3401.28,2023,North America
+Russia,3802.93,2017,Europe
+Canada,3626.39,2012,North America
+Japan,4801.3,2004,Asia
+India,1321.7,2022,Asia
+Mexico,597.83,2023,North America
+Russia,2432.34,2000,Europe
+India,5050.89,2021,Asia
+Japan,1732.23,2000,Asia
+China,4844.65,2017,Asia
+Japan,6801.42,2014,Asia
+Japan,1019.74,2016,Asia
+India,4839.17,2010,Asia
+Australia,3328.75,2020,Oceania
+India,6129.74,2021,Asia
+France,1569.19,2016,Europe
+United States,4971.33,2012,North America
+South Africa,5931.56,2000,Africa
+Australia,6634.45,2001,Oceania
+Germany,4909.44,2008,Europe
+South Africa,3681.35,2002,Africa
+United States,4477.79,2000,North America
+Russia,6134.77,2020,Europe
+Mexico,4166.02,2015,North America
+France,600.55,2022,Europe
+France,6544.26,2005,Europe
+Germany,4950.88,2016,Europe
+Australia,4864.99,2004,Oceania
+China,1823.46,2004,Asia
+Japan,4748.64,2005,Asia
+Australia,2999.51,2002,Oceania
+Mexico,4698.14,2020,North America
+China,1103.51,2022,Asia
+France,4741.78,2004,Europe
+India,6996.13,2020,Asia
+Mexico,718.2,2004,North America
+United States,6849.35,2009,North America
+Germany,3085.59,2009,Europe
+United States,6146.97,2018,North America
+Mexico,5563.74,2016,North America
+Brazil,4142.31,2020,South America
+Brazil,5273.76,2013,South America
+Russia,6198.2,2008,Europe
+Australia,3067.33,2013,Oceania
+France,2558.42,2000,Europe
+France,4806.12,2018,Europe
+Japan,5731.78,2012,Asia
+Japan,5431.08,2012,Asia
+Japan,5665.57,2003,Asia
+India,3274.85,2000,Asia
+South Africa,5797.71,2016,Africa
+Canada,1193.38,2007,North America
+South Africa,3993.63,2001,Africa
+United States,438.01,2007,North America
+South Africa,2542.27,2006,Africa
+India,2818.65,2001,Asia
+Russia,3014.74,2021,Europe
+United States,4990.08,2021,North America
+South Africa,2964.48,2002,Africa
+India,3361.38,2017,Asia
+Canada,1967.79,2011,North America
+South Africa,2863.46,2000,Africa
+India,1899.98,2021,Asia
+Japan,883.09,2011,Asia
+France,4382.76,2004,Europe
+Japan,4810.2,2016,Asia
+France,4488.64,2015,Europe
+Germany,3459.06,2014,Europe
+Germany,2906.59,2022,Europe
+Germany,6098.0,2014,Europe
+Canada,3825.94,2004,North America
+Japan,3562.6,2020,Asia
+France,569.24,2013,Europe
+India,2652.24,2001,Asia
+United States,2909.29,2010,North America
+India,3032.23,2018,Asia
+United States,4229.14,2006,North America
+Brazil,3921.78,2005,South America
+India,4412.17,2001,Asia
+South Africa,5448.23,2005,Africa
+South Africa,5765.71,2017,Africa
+Australia,5139.61,2001,Oceania
+Japan,6706.46,2017,Asia
+United States,520.34,2014,North America
+United States,1692.13,2018,North America
+Mexico,449.91,2001,North America
+Russia,4673.33,2019,Europe
+Japan,6327.0,2005,Asia
+Canada,2006.98,2000,North America
+Australia,6518.43,2023,Oceania
+Canada,797.76,2014,North America
+Canada,6567.28,2022,North America
+Canada,2720.71,2009,North America
+Japan,1069.38,2018,Asia
+Canada,3606.75,2016,North America
+South Africa,2094.73,2004,Africa
+Russia,2280.16,2003,Europe
+Russia,2428.11,2009,Europe
+Germany,5699.97,2023,Europe
+Brazil,3958.46,2016,South America
+United States,2454.63,2009,North America
+Mexico,4428.2,2016,North America
+United States,5126.59,2019,North America
+Brazil,2199.32,2023,South America
+Mexico,3129.42,2004,North America
+Japan,1204.45,2001,Asia
+India,1595.59,2005,Asia
+Japan,4895.38,2020,Asia
+United States,1597.49,2001,North America
+United States,3866.08,2012,North America
+Mexico,5079.71,2010,North America
+Mexico,1105.39,2010,North America
+Brazil,4144.26,2015,South America
+Canada,2093.31,2010,North America
+Japan,6755.32,2018,Asia
+Mexico,3591.4,2014,North America
+France,5719.55,2022,Europe
+Brazil,4031.5,2022,South America
+South Africa,686.52,2015,Africa
+United States,4578.8,2010,North America
+Brazil,6679.26,2021,South America
+Japan,4370.64,2015,Asia
+Mexico,5806.65,2007,North America
+United States,6235.76,2003,North America
+India,1905.33,2007,Asia
+Brazil,1799.5,2003,South America
+Australia,4432.47,2023,Oceania
+United States,3112.79,2002,North America
+Japan,5943.08,2002,Asia
+Germany,6340.15,2017,Europe
+France,2732.58,2018,Europe
+China,1963.35,2018,Asia
+Canada,5551.47,2020,North America
+China,2213.72,2004,Asia
+Japan,5829.25,2017,Asia
+South Africa,3196.67,2009,Africa
+South Africa,4805.83,2021,Africa
+Germany,1030.53,2020,Europe
+Canada,4517.47,2005,North America
+Australia,3381.67,2000,Oceania
+Germany,4271.62,2004,Europe
+Russia,1508.89,2008,Europe
+China,5263.37,2011,Asia
+Germany,6094.46,2013,Europe
+China,1830.48,2001,Asia
+United States,1031.72,2016,North America
+South Africa,556.01,2013,Africa
+United States,4637.01,2012,North America
+France,4406.82,2008,Europe
+Russia,4008.2,2014,Europe
+Canada,1930.85,2021,North America
+Australia,2979.98,2014,Oceania
+China,4323.54,2023,Asia
+Australia,3678.66,2010,Oceania
+China,6919.38,2015,Asia
+Japan,1300.5,2016,Asia
+Germany,4987.95,2003,Europe
+France,3068.5,2000,Europe
+South Africa,3226.12,2007,Africa
+Mexico,5136.15,2016,North America
+China,4970.08,2002,Asia
+Australia,6942.29,2019,Oceania
+France,1247.4,2014,Europe
+India,1087.12,2014,Asia
+India,5180.64,2023,Asia
+United States,4217.35,2021,North America
+South Africa,2209.46,2013,Africa
+Mexico,924.17,2022,North America
+Japan,965.34,2013,Asia
+Australia,6301.66,2023,Oceania
+Mexico,1666.32,2001,North America
+Germany,2534.25,2012,Europe
+Germany,1895.93,2013,Europe
+Australia,2742.98,2023,Oceania
+Canada,858.2,2018,North America
+Japan,3825.79,2006,Asia
+France,846.24,2002,Europe
+China,5682.35,2014,Asia
+Canada,1942.5,2022,North America
+China,3964.08,2013,Asia
+China,6208.52,2010,Asia
+Canada,4695.79,2014,North America
+United States,3917.52,2012,North America
+India,2540.6,2017,Asia
+China,2597.81,2005,Asia
+Canada,4818.61,2002,North America
+Canada,6961.32,2018,North America
+Russia,4768.14,2014,Europe
+Mexico,4081.37,2022,North America
+Brazil,5222.29,2004,South America
+United States,3470.36,2009,North America
+South Africa,796.94,2006,Africa
+Brazil,4111.16,2016,South America
+Mexico,6720.33,2006,North America
+Mexico,1557.0,2021,North America
+Mexico,4954.03,2011,North America
+Brazil,1726.16,2016,South America
+Australia,3936.46,2012,Oceania
+India,1038.06,2019,Asia
+Canada,3372.45,2003,North America
+India,5390.68,2009,Asia
+Japan,2693.97,2002,Asia
+Australia,4788.42,2008,Oceania
+South Africa,5649.97,2012,Africa
+India,6519.37,2017,Asia
+Germany,1948.64,2014,Europe
+Mexico,3035.49,2003,North America
+China,1405.95,2014,Asia
+Japan,6950.39,2021,Asia
+United States,6518.21,2001,North America
+South Africa,3963.72,2014,Africa
+Japan,5957.42,2007,Asia
+Mexico,3838.32,2007,North America
+China,4515.67,2016,Asia
+Australia,988.22,2011,Oceania
+China,5384.78,2018,Asia
+Brazil,1242.91,2009,South America
+China,5852.05,2008,Asia
+Brazil,5561.39,2004,South America
+Australia,5077.72,2005,Oceania
+France,638.66,2019,Europe
+Mexico,2400.65,2001,North America
+Brazil,2136.54,2023,South America
+United States,2776.9,2012,North America
+China,978.44,2005,Asia
+China,6583.92,2004,Asia
+United States,4055.09,2000,North America
+Germany,2416.46,2020,Europe
+Canada,3020.08,2021,North America
+France,3351.54,2020,Europe
+South Africa,4363.92,2005,Africa
+Brazil,3803.48,2005,South America
+United States,6467.99,2022,North America
+Australia,3679.96,2015,Oceania
+Brazil,6948.24,2003,South America
+Canada,6019.4,2010,North America
+Australia,1776.17,2023,Oceania
+Japan,6541.93,2022,Asia
+Mexico,1168.02,2008,North America
+China,5795.17,2022,Asia
+Japan,2912.11,2002,Asia
+Brazil,6194.63,2018,South America
+Canada,6129.17,2007,North America
+France,5719.11,2004,Europe
+Mexico,5614.2,2003,North America
+Brazil,2410.88,2023,South America
+United States,934.07,2005,North America
